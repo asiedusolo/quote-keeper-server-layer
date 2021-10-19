@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "start": "node ./bin/www",
-    "test": "bin/mocha-test && PORT=8001 bin/wdio-test"
+    "test": "bin/mocha-test && PORT=4001 bin/wdio-test"
   },
   "dependencies": {
     "body-parser": "^1.17.2",
